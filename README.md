@@ -1,16 +1,51 @@
 ## Hi there 👋
+# 👩‍💻 Akanksha Singh Tomar
 
-<!--
-**atomar4699/atomar4699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Manager | SDET | Salesforce Admin | Cloud Automation Engineer**  
+📍 Based in Columbus, OH | 📧 akanshasinghtomar786@gmail.com | 🌐 [Portfolio coming soon]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I’m a QA Engineer with 6+ years of experience leading automation strategies, cloud CI/CD pipelines, and CRM testing. I specialize in web + mobile automation using Selenium, Playwright, and API tools. I've built high-impact solutions for EdTech and Real Estate platforms across AWS, Azure, and GCP environments.
+
+---
+
+### 🧠 Technical Skills
+
+- **Languages**: Java, TypeScript, Python, SQL, Bash  
+- **Test Automation**: Selenium, Playwright, TestNG, Karate, Cypress  
+- **API Testing**: Postman, RestAssured, Swagger  
+- **CI/CD**: Jenkins, GitLab CI, GitHub Actions, Docker, Kubernetes  
+- **CRM**: Salesforce, LeadSquared  
+- **Real Estate APIs**: Zillow, CoStar, MLS, LoopNet  
+- **Tools**: JIRA, Zephyr, TestRail  
+- **Certs**: AWS Cloud Foundations, Salesforce Admin (in progress)
+
+---
+
+### 🛠 Featured Projects
+
+- **🔍 Web Browser Forensics** – Extracted and analyzed browser artifacts using Python.
+- **☁️ Cloud Workspace Simulation** – Built scalable CI/CD cloud infra with AWS + Terraform.
+- **🏡 Real Estate CRM Automation** – Validated MLS/Zillow data + Salesforce workflows.
+- **🛒 Sephora DBMS** – MySQL-based order & inventory automation with SQL scripts.
+- **🎓 University Management System** – Automated academic portal testing with Selenium.
+
+---
+
+### 📊 GitHub Projects
+
+🔗 Visit my repos here → [github.com/atomar4699](https://github.com/atomar4699)
+
+---
+
+### 💬 Let’s Connect
+
+- 📧 Email: akanshasinghtomar786@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/akanksha-singh-tomar-6b408bbb
+
+
+
+
