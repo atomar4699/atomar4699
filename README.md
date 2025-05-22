@@ -15,22 +15,27 @@ I’m a QA Engineer with 6+ years of experience leading automation strategies, c
 
 ### 🧠 Technical Skills
 
-- **Languages**: Java, TypeScript, Python, SQL, Bash  
-- **Test Automation**: Selenium, Playwright, TestNG, Karate, Cypress  
-- **API Testing**: Postman, RestAssured, Swagger  
-- **CI/CD**: Jenkins, GitLab CI, GitHub Actions, Docker, Kubernetes  
-- **CRM**: Salesforce, LeadSquared  
-- **Real Estate APIs**: Zillow, CoStar, MLS, LoopNet  
-- **Tools**: JIRA, Zephyr, TestRail  
-- **Certs**: AWS Cloud Foundations, Salesforce Admin (in progress)
-- [![GitHub Streak](https://streak-stats.demolab.com?user=atomar4699&theme=radical&hide_border=true)](https://git.io/streak-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atomar4699&layout=compact&theme=radical)](https://github.com/atomar4699)
-- ![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomar4699&show_icons=true&theme=radical&include_all_commits=true&hide=issues&custom_title=Akanksha's%20GitHub%20Activity)
-
-
-
+- **Languages & Frameworks**: Java, TypeScript, Python, C#, SQL, Bash  
+- **Test Automation**: Selenium WebDriver, Playwright (TypeScript), Cypress, TestNG, JUnit, NUnit, Karate, Cucumber (BDD)  
+- **API Testing**: Postman, SoapUI, RestAssured, Swagger, Karate DSL  
+- **Performance Testing**: JMeter  
+- **CI/CD & DevOps**: Jenkins, GitLab CI/CD, Bamboo, Docker, Kubernetes, Maven, Gradle  
+- **Version Control & PM Tools**: Git, GitHub, GitHub Actions, Jira, Confluence  
+- **Cloud & Environments**: AWS, Azure, GCP; Windows, macOS, Linux; Chrome, Firefox, Safari  
+- **Databases**: MySQL, Oracle  
+- **CRM & Real-Estate Integrations**: Salesforce Automation, LeadSquared; MLS, Crexi, CoStar, Zillow, LoopNet, Realtor.com APIs
 
 ---
+
+### 🏅 Certifications & Badges
+
+- 🧾 **AWS Academy Cloud Foundations** – *April 2025*  
+- 🧩 **Salesforce Certified Administrator**  
+- 🚀 **Trailhead Badges** – Data Management, Data Modeling, Platform Basics
+
+---
+
+
 
 ### 🛠 Featured Projects
 
