@@ -46,6 +46,10 @@ I’m a QA Engineer with 6+ years of experience leading automation strategies, c
 - 📧 Email: akanshasinghtomar786@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/akanksha-singh-tomar-6b408bbb
 
+---
+
+> *“Quality is never an accident; it is always the result of intelligent effort.”* 
+
 
 
 
