@@ -25,6 +25,8 @@ I’m a QA Engineer with 6+ years of experience leading automation strategies, c
 - **Certs**: AWS Cloud Foundations, Salesforce Admin (in progress)
 - [![GitHub Streak](https://streak-stats.demolab.com?user=atomar4699&theme=radical&hide_border=true)](https://git.io/streak-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atomar4699&layout=compact&theme=radical)](https://github.com/atomar4699)
+- ![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomar4699&show_icons=true&theme=radical&include_all_commits=true&hide=issues&custom_title=Akanksha's%20GitHub%20Activity)
+
 
 
 
