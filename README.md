@@ -46,6 +46,15 @@ I’m a QA Engineer with 6+ years of experience leading automation strategies, c
 - **🎓 University Management System** – Automated academic portal testing with Selenium.
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atomar4699&show_icons=true&theme=radical&include_all_commits=true&hide=issues&custom_title=Akanksha's%20GitHub%20Activity" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomar4699&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=atomar4699&theme=radical&hide_border=true" />
+</p>
+
+---
 
 ### 📊 GitHub Projects
 
@@ -53,7 +62,6 @@ I’m a QA Engineer with 6+ years of experience leading automation strategies, c
 
 ---
 
-### 💬 Let’s Connect
 
 ### 💬 Let’s Connect
 
