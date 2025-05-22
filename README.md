@@ -22,6 +22,8 @@ I’m a QA Engineer with 6+ years of experience leading automation strategies, c
 - **Real Estate APIs**: Zillow, CoStar, MLS, LoopNet  
 - **Tools**: JIRA, Zephyr, TestRail  
 - **Certs**: AWS Cloud Foundations, Salesforce Admin (in progress)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=atomar4699&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
