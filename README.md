@@ -2,7 +2,8 @@
 # 👩‍💻 Akanksha Singh Tomar
 
 **QA Manager | SDET | Salesforce Admin | Cloud Automation Engineer**  
-📍 Based in Columbus, OH | 📧 akanshasinghtomar786@gmail.com | 🌐 [Portfolio coming soon]
+📍 Based in Columbus, OH | 📧 [akanshasinghtomar786@gmail.com](mailto:akanshasinghtomar786@gmail.com)
+| 🌐 [Portfolio coming soon]
 
 ---
 
@@ -43,8 +44,12 @@ I’m a QA Engineer with 6+ years of experience leading automation strategies, c
 
 ### 💬 Let’s Connect
 
-- 📧 Email: akanshasinghtomar786@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/akanksha-singh-tomar-6b408bbb
+### 💬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-singh-tomar-6b408bbb)  
+📧 [akanshasinghtomar786@gmail.com](mailto:akanshasinghtomar786@gmail.com)
+
+
 
 ---
 
