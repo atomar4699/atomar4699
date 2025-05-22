@@ -1,6 +1,5 @@
 ## Hi there 👋
-# 👩‍💻 Akanksha Singh Tomar ![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomar4699&show_icons=true&theme=radical)
-
+# 👩‍💻 Akanksha Singh Tomar 
 **QA Manager | SDET | Salesforce Admin | Cloud Automation Engineer**  
 📍 Based in Columbus, OH | 📧 [akanshasinghtomar786@gmail.com](mailto:akanshasinghtomar786@gmail.com)
 | 🌐 [Portfolio coming soon]
