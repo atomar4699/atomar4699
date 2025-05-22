@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 # 👩‍💻 Akanksha Singh Tomar 
 **QA Manager | SDET | Salesforce Admin | Cloud Automation Engineer**  
@@ -23,6 +24,8 @@ I’m a QA Engineer with 6+ years of experience leading automation strategies, c
 - **Tools**: JIRA, Zephyr, TestRail  
 - **Certs**: AWS Cloud Foundations, Salesforce Admin (in progress)
 - [![GitHub Streak](https://streak-stats.demolab.com?user=atomar4699&theme=radical&hide_border=true)](https://git.io/streak-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atomar4699&layout=compact&theme=radical)](https://github.com/atomar4699)
+
 
 
 ---
